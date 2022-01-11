@@ -6,7 +6,7 @@ import cv2
 import os
 import pyttsx3
 ap=argparse.ArgumentParser()
-
+ap.add
 
 
 
